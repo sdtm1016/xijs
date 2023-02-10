@@ -75,15 +75,3 @@ console.log('native stringify', parser.nativeStringify(door));
 | [dooring-electron-lowcode](https://github.com/MrXujiang/dooring-electron-lowcode) | 基于 electron 的 H5-Dooring 编辑器桌面端.                                               |
 |                                                                                   |
 | [DooringX](https://github.com/H5-Dooring/dooringx)                                | 快速高效搭建可视化拖拽平台.                                                             |
-
-## 赞助 | Sponsored
-
-开源不易, 有了您的赞助, 我们会做的更好~
-
-<img src="http://cdn.dooring.cn/dr/WechatIMG2.jpeg" width="180px" />
-
-## 技术反馈和交流群 | Technical feedback and communication
-
-微信：beautifulFront
-
-<img src="http://cdn.dooring.cn/dr/qtqd_code.png" width="180px" />
